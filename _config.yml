@@ -1,11 +1,12 @@
 title: Chris Woodard # your name (or website title) here
-logo: "chriswoodard43.github.io/images/Headshot.png" # your photo (or logo) here
+logo: "/Headshot.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Welcome to my data science site, enjoy browsing my projects. 
   <br><br>
   Second description 
   <br><br>
   <a href="https://www.linkedin.com/in/chris-woodard-68629a79/">LinkedIn</a>
+  <br>
   <a href="https://public.tableau.com/profile/christopher.woodard4874#!/">Tableau Public</a>
   
 theme: jekyll-theme-minimal
