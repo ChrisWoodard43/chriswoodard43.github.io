@@ -2,9 +2,7 @@
 
 ---
 
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
+[K Means Clustering of University Data](https://medium.com/@chriswoodard43/k-means-clustering-of-university-data-9e8491068778)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
