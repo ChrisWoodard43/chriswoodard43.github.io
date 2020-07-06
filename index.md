@@ -3,7 +3,7 @@
 ---
 
 [K Means Clustering of University Data](https://medium.com/@chriswoodard43/k-means-clustering-of-university-data-9e8491068778)
-<img src="images/KMeans.png?raw=true"/>
+<img src="images/KMeans.png"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
