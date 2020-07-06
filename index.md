@@ -3,6 +3,7 @@
 ---
 
 [K Means Clustering of University Data](https://medium.com/@chriswoodard43/k-means-clustering-of-university-data-9e8491068778)
+For this project, I use K-means clustering, a common unsupervised machine learning model, on a universities dataset to predict whether a model can correcly cluster public and private schools.
 <img src="images/KMeans.png"/>
 
 ---
