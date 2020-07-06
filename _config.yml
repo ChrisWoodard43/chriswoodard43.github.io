@@ -4,7 +4,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   Welcome to my portfolio, enjoy browsing my data analytics and data science projects. 
   <br><br>
   <a href="https://www.linkedin.com/in/chris-woodard-68629a79/">LinkedIn</a>
+  <br>
   <a href="https://medium.com/@chriswoodard43">Medium</a>
+  <br>
   <a href="https://public.tableau.com/profile/christopher.woodard4874#!/">Tableau Public</a>
   
 theme: jekyll-theme-minimal
