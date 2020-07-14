@@ -6,6 +6,7 @@
 <br><br>
 For this project, I use K-means clustering, a common unsupervised machine learning model, on a universities dataset to predict whether a model can correcly cluster public and private schools.
 <img src="images/KMeans.png"/>
+
 ---
 [Visualizing COVID-19 Spread with Tableau Animations](https://medium.com/@chriswoodard43/visualizing-covid-19-spread-with-tableau-animations-75890dda23bb)
 <br><br>
