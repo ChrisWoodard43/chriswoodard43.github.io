@@ -8,6 +8,7 @@ For this project, I use K-means clustering, a common unsupervised machine learni
 <img src="images/KMeans.png"/>
 
 ---
+
 [Visualizing COVID-19 Spread with Tableau Animations](https://medium.com/@chriswoodard43/visualizing-covid-19-spread-with-tableau-animations-75890dda23bb)
 <br><br>
 [Tableau Public](https://public.tableau.com/profile/christopher.woodard4874#!/vizhome/COVIDbyCountyAMosaic/COVIDbyCountyAMosaic)
