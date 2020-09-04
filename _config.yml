@@ -8,6 +8,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://medium.com/@chriswoodard43">Medium</a> (featured in Towards Data Science, a Medium blog with 20M monthly views)
   <br>
   <a href="https://public.tableau.com/profile/christopher.woodard4874#!/">Tableau Public</a>
+  <br>
+  <a href="https://www.strava.com/athletes/48277501">Strava</a> (running!)
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
