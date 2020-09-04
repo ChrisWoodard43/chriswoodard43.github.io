@@ -3,6 +3,7 @@
 [Building a Stock Ticker Visualizer with R Shiny Apps](https://github.com/ChrisWoodard43/StockTickerVisualizer/blob/master/StockTickerApp.R)
 <br><br>
 For this project, I learned the basics of building an R Shiny App by visualizing stock candlesticks and volume over a user-input date range. In the process, I learned about basic R Shiny App syntax, reactive functions, the quantmod package for fetching stock prices from Yahoo Finance, and building user interfaces. 
+<br>
 <img src="images/StockTickerVisualizer.gif"/>
 
 ---
